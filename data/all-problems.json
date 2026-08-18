@@ -1,0 +1,72 @@
+[
+  {
+    "level": 1,
+    "q": "What is 7 x 8?",
+    "a": "56",
+    "ex": "Multiplication fact: 7 x 8 = 56.",
+    "hook": "Can you do this in under 2 seconds?"
+  },
+  {
+    "level": 2,
+    "q": "Solve for x:  x + 5 = 12",
+    "a": "x = 7",
+    "ex": "Subtract 5 from both sides: x = 12 - 5 = 7.",
+    "hook": "Your first equation!"
+  },
+  {
+    "level": 3,
+    "q": "Solve for x:  x^2 = 49",
+    "a": "x = 7 or x = -7",
+    "ex": "Take the square root: x = +/-sqrt(49) = +/-7. Both solutions.",
+    "hook": "Remember both roots!"
+  },
+  {
+    "level": 4,
+    "q": "What is the area of a circle with radius 5? (Use pi = 3.14)",
+    "a": "78.5",
+    "ex": "Area = pi*r^2 = 3.14 x 25 = 78.5.",
+    "hook": "Circle area - a classic!"
+  },
+  {
+    "level": 5,
+    "q": "Solve for x:  x^2 + 4x + 4 = 0",
+    "a": "x = -2 (double root)",
+    "ex": "This is (x+2)^2 = 0, so x = -2 is a double root.",
+    "hook": "Perfect square trinomial!"
+  },
+  {
+    "level": 6,
+    "q": "What is sin(30 degrees)?",
+    "a": "1/2",
+    "ex": "sin(30 degrees) = 1/2. Standard value.",
+    "hook": "Know your special angles!"
+  },
+  {
+    "level": 7,
+    "q": "Evaluate:  log_2(8)",
+    "a": "3",
+    "ex": "2^3 = 8, so log_2(8) = 3.",
+    "hook": "Logarithm basics!"
+  },
+  {
+    "level": 8,
+    "q": "What is the derivative of  x^3?",
+    "a": "3x^2",
+    "ex": "Power rule: d/dx(x^n) = n*x^(n-1). Here n=3, so 3x^2.",
+    "hook": "First derivative!"
+  },
+  {
+    "level": 9,
+    "q": "What is the probability of rolling a 6 on a fair die?",
+    "a": "1/6",
+    "ex": "One favorable outcome out of 6 equally likely outcomes.",
+    "hook": "Dice probability!"
+  },
+  {
+    "level": 10,
+    "q": "What is the last digit of 7^2024?",
+    "a": "1",
+    "ex": "Powers of 7 cycle: 7,9,3,1 (period 4). 2024 mod 4 = 0, so last digit = 1.",
+    "hook": "Cyclicity of digits!"
+  }
+]
